@@ -16,7 +16,6 @@ Currently, I'm focused on:
 - Computer vision and AI applications
 - Embedded systems with ESP32
 - Linux and open-source technologies
-- Distributed systems, Kubernetes, MQTT, and Kafka
 - Building projects that solve real-world problems
 
 ---
